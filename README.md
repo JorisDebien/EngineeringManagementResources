@@ -1,14 +1,17 @@
 # How They Scale Development
 A repository with resources on scaling development organisations. Inspired by How They Test.
 
-
+<br>
 ## Frameworks
-http://www.agilemodeling.com/
-LeSS
-SAFe
+DAD  - https://www.pmi.org/disciplined-agile <br>
+SAFe - https://www.scaledagileframework.com/ <br>
+LeSS - https://less.works/ <br>
 
-Spotify model
-Shape Up
+## Company models
+Spotify model <br>
+Shape Up <br>
 
-Sociocracy
-Holacracy
+## Other
+Sociocracy <br>
+Holacracy <br>
+ 
