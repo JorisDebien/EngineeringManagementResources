@@ -1,7 +1,7 @@
 # How They Scale Development
-A repository with resources on scaling development organisations. Inspired by How They Test.
+A repository with resources on scaling development organisations. Inspired by How They Test.<br>
 
-<br>
+
 ## Frameworks
 DAD  - https://www.pmi.org/disciplined-agile <br>
 SAFe - https://www.scaledagileframework.com/ <br>
