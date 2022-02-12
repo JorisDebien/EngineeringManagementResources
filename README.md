@@ -13,7 +13,7 @@ LeSS - https://less.works/ <br>
 > Models which may or may not be used in the company they're named after.  
 
 Spotify model <br>
-Shape Up <br>
+Shape Up (Basecamp) - https://basecamp.com/shapeup/webbook <br>
 
 ## Cheat sheets
 > Spreading cheat sheets can help raise awareness on practices, principles, models, etc - making it easier to align on certain topics within an organisation.  
