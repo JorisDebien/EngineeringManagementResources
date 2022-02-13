@@ -16,7 +16,10 @@ Spotify model <br>
 Shape Up (Basecamp) - https://basecamp.com/shapeup/webbook <br>
 
 ## Cheat sheets
-> Spreading cheat sheets can help raise awareness on practices, principles, models, etc - making it easier to align on certain topics within an organisation.  
+> Spreading cheat sheets and guidelines can help raise awareness on practices, principles, models, etc - making it easier to align on certain topics within an organisation.  
+
+##### Coding
+**Idiomatic JS** - https://github.com/rwaldron/idiomatic.js/
 
 ##### Testing
 **TestObsessed - Data Type Attacks & Web Tests** - [Test Heuristic Cheat Sheet](https://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
