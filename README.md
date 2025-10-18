@@ -1,19 +1,29 @@
-# How To Scale Development
-A repository with resources on scaling development organisations. Inspired by How They Test.<br>
+# Engineering Management Resources
+A repository with resources on scaling development organisations. Inspired by curated collections like How They Test.
 
+## Thinking Techniques
+> Techniques used to structure problem solving and find potential pitfalls 
 
-## Frameworks
-> Complete frameworks with their own variations on & additions to Scrum.
+Systems thinking - https://thesystemsthinker.com/ <br>
+Wardley mapping  - https://www.swardleymaps.com/ <br>
+
+## Agile Frameworks
+> Complete scaling frameworks with their own variations on & additions to Scrum.
 
 DAD  - https://www.pmi.org/disciplined-agile <br>
 SAFe - https://www.scaledagileframework.com/ <br>
 LeSS - https://less.works/ <br>
 
-## Company models
+## Company organisational models
 > Models which may or may not be used in the company they're named after.  
 
 Spotify model <br>
 Shape Up (Basecamp) - https://basecamp.com/shapeup/webbook <br>
+
+## Engineering practices
+
+## Software testing
+> Understand the job of a tester and their challenges
 
 ## Cheat sheets
 > Spreading cheat sheets and guidelines can help raise awareness on practices, principles, models, etc - making it easier to align on certain topics within an organisation.  
