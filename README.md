@@ -1,5 +1,5 @@
 # Engineering Management Resources
-A repository with resources on scaling development organisations. Inspired by curated collections like How They Test.
+A repository with resources on the challenges you might encounter as an engineering manager. Inspired by curated collections like How They Test.
 
 ## Thinking Techniques
 > Techniques used to structure problem solving and find potential pitfalls 
