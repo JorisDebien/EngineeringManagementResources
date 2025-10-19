@@ -4,8 +4,8 @@ A repository with resources on the challenges you might encounter as an engineer
 ## Thinking Techniques
 > Techniques used to structure problem solving and find potential pitfalls 
 
-Systems thinking - https://thesystemsthinker.com/ <br>
-Wardley mapping  - https://www.swardleymaps.com/ <br>
+- [Systems thinking](https://github.com/JorisDebien/EngineeringManagementResources/blob/main/resources/thinkingtechniques.md#systems-thinking)  <br>
+- Wardley mapping  - https://www.swardleymaps.com/ <br>
 
 ## Agile Frameworks
 > Complete scaling frameworks with their own variations on & additions to Scrum.
