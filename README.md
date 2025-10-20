@@ -42,6 +42,8 @@ To me, thinking techniques are an essential skill for any engineering manager (o
 
 - Accelerate (Nicole Forsgren) 📘
 - The DevOps Handbook (Gene Kim) 📘
+- Minimum Viable CD - https://minimumcd.org/ (Bryan Finster) 
+- CI/CD Dependency Tree - https://practices.minimumcd.org/ (Bryan Finster)
 <br>
 
 # Software Testing
