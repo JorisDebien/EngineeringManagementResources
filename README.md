@@ -27,6 +27,7 @@ To me, thinking techniques are an essential skill for any engineering manager (o
 > Useful info on generally accepted good management practices.
 
 - Don't be an idiot (not a resource, just general advice)
+- An Elegant Puzzle (Will Larson) 📘
 <br>
 
 # System Design And Architecture
@@ -50,16 +51,16 @@ I got into software development through software testing, so it will always hold
 
 
 - Agile Testing (Lisa Crispin) 📘
-- Lessons Learned in Software Testing (TODO) 📘
+- Lessons Learned in Software Testing (Cem Kaner & James M Bach) 📘
 - Perfect Software... And Other Illusions About Software Testing (Gerald Weinberg) 📘
 <br>
 
 # Agile Frameworks
 > Complete scaling frameworks with their own variations on & additions to Scrum.
 
-DAD  - https://www.pmi.org/disciplined-agile <br>
-SAFe - https://www.scaledagileframework.com/ <br>
-LeSS - https://less.works/ <br>
+- DAD  - https://www.pmi.org/disciplined-agile
+- SAFe - https://www.scaledagileframework.com/
+- LeSS - https://less.works/
 <br>
 
 # Organisational Models
