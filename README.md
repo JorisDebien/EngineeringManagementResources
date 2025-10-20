@@ -15,11 +15,11 @@ A repository with resources on the challenges you might encounter as an engineer
 # Thinking And Modelling Techniques
 > Techniques used to structure problem solving and find potential pitfalls
 
-To me, thinking techniques are an essential skill for any engineering manager (or any manager at all). If you want to get to root causes of certain issues, get a better view of what the catalysts and pitfalls are in the workflow,... thinking techniques are invaluable. It allows me to challenge my own assumptions and come to a logical conclusion.
+To me, thinking and modelling techniques are essential skills for any engineering manager (or any manager at all). If you want to get to root causes of certain issues, get a better view of what the catalysts and pitfalls are in the workflow,... thinking techniques are invaluable. It allows me to challenge my own assumptions and come to a logical conclusion.
 
-- The Systems Thinker (https://thesystemsthinker.com/)
+- The Systems Thinker - https://thesystemsthinker.com/
 - Thinking In Systems: A Primer (Donella H. Meadows) 📘 
-- Wardley mapping (https://www.swardleymaps.com/)
+- Wardley mapping - https://www.swardleymaps.com/ (Simon Wardley)
 <br>
 
 
@@ -33,7 +33,7 @@ To me, thinking techniques are an essential skill for any engineering manager (o
 # System Design And Architecture
 > Techniques and patterns for system design
 
-- C4 Model (https://c4model.com/)
+- C4 Model - https://c4model.com/ (Simon Brown)
 - Designing Data-Intensive Applications (Martin Kleppmann) 📘
 <br>
 
@@ -69,7 +69,7 @@ I got into software development through software testing, so it will always hold
 > Models which may or may not be used in the company they're named after.  
 
 - Spotify model
-- Shape Up (Basecamp) (https://basecamp.com/shapeup/webbook)
+- Shape Up - https://basecamp.com/shapeup/webbook (BaseCamp)
 <br>
 
 # Cheat Sheets
