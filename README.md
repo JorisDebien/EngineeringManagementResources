@@ -3,9 +3,9 @@ A repository with resources on the challenges you might encounter as an engineer
 <br>
 
 # Table of contents
-- [Thinking Techniques](#thinking-and-modelling-techniques)
+- [Thinking And Modelling Techniques](#thinking-and-modelling-techniques)
 - [Management Practices](#management-practices)
-- [System Design & Architecture](#system-design-and-architecture)
+- [System Design And Architecture](#system-design-and-architecture)
 - [Engineering Practices](#engineering-practices)
 - [Software Testing](#software-testing)
 - [Agile Frameworks](#agile-frameworks)
@@ -20,57 +20,55 @@ To me, thinking techniques are an essential skill for any engineering manager (o
 - The Systems Thinker (https://thesystemsthinker.com/)
 - Thinking In Systems: A Primer (Donella H. Meadows) 📘 
 - Wardley mapping (https://www.swardleymaps.com/)
-
 <br>
+
+
 # Management Practices
 > Useful info on generally accepted good management practices.
-<br>
 
 - Don't be an idiot (not a resource, just general advice)
-
-
 <br>
+
 # System Design And Architecture
 > Techniques and patterns for system design
 
-
-
 - C4 Model (https://c4model.com/)
 - Designing Data-Intensive Applications (Martin Kleppmann) 📘
-  
 <br>
+
 # Engineering Practices
 > The neverending quest to find out what good engineering means.
 
-
 - Accelerate (Nicole Forsgren) 📘
 - The DevOps Handbook (Gene Kim) 📘
-
 <br>
+
 # Software Testing
 > Understand the job of a tester and their challenges
 
 I got into software development through software testing, so it will always hold a special place in my heart. More importantly, though, is that I find testability one of the major factors in long-term success of any software application - so understanding the challenges and struggles your testers are facing is key to proper management of your applications.
 
-<br>
-- Agile Testing (Lisa Crispin) 📘
 
+- Agile Testing (Lisa Crispin) 📘
+- Lessons Learned in Software Testing (TODO) 📘
+- Perfect Software... And Other Illusions About Software Testing (Gerald Weinberg) 📘
 <br>
+
 # Agile Frameworks
 > Complete scaling frameworks with their own variations on & additions to Scrum.
 
 DAD  - https://www.pmi.org/disciplined-agile <br>
 SAFe - https://www.scaledagileframework.com/ <br>
 LeSS - https://less.works/ <br>
-
 <br>
+
 # Organisational Models
 > Models which may or may not be used in the company they're named after.  
 
-Spotify model <br>
-Shape Up (Basecamp) - https://basecamp.com/shapeup/webbook <br>
-
+- Spotify model
+- Shape Up (Basecamp) (https://basecamp.com/shapeup/webbook)
 <br>
+
 # Cheat Sheets
 > Spreading cheat sheets and guidelines can help raise awareness on practices, principles, models, etc - making it easier to align on certain topics within an organisation.  
 
@@ -80,7 +78,7 @@ Shape Up (Basecamp) - https://basecamp.com/shapeup/webbook <br>
 ## Testing
 **TestObsessed - Data Type Attacks & Web Tests** - [Test Heuristic Cheat Sheet](https://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
 
-<br>
+
 # Other
 Sociocracy <br>
 Holacracy <br>
