@@ -68,7 +68,7 @@ I got into software development through software testing, so it will always hold
 # Organisational Models
 > Models which may or may not be used in the company they're named after. I do NOT recommend copy-pasting these to your org. 
 
-- Spotify model (Henrik Kniberg & Anders Ivarsson)
+- [Spotify model](files/SpotifyScaling.pdf) (Henrik Kniberg & Anders Ivarsson)
 - Shape Up - https://basecamp.com/shapeup/webbook (BaseCamp)
 <br>
 
