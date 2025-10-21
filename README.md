@@ -10,6 +10,7 @@ A repository with resources on the challenges you might encounter as an engineer
 - [Software Testing](#software-testing)
 - [Agile Frameworks](#agile-frameworks)
 - [Organisational Models](#organisational-models)
+- [Curated Collections](#curated-collections)
 <br>
 
 # Thinking And Modelling Techniques
@@ -81,8 +82,10 @@ I got into software development through software testing, so it will always hold
 ## Testing
 **TestObsessed - Data Type Attacks & Web Tests** - [Test Heuristic Cheat Sheet](https://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
 
+# Curated Collections
+> More curated collections
 
-# Other
-Sociocracy <br>
-Holacracy <br>
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+
+
  
