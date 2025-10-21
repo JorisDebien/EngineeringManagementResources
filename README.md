@@ -18,9 +18,9 @@ A repository with resources on the challenges you might encounter as an engineer
 
 To me, thinking and modelling techniques are essential skills for any engineering manager (or any manager at all). If you want to get to root causes of certain issues, get a better view of what the catalysts and pitfalls are in the workflow,... thinking techniques are invaluable. It allows me to challenge my own assumptions and come to a logical conclusion.
 
-- The Systems Thinker - https://thesystemsthinker.com/
+- [The Systems Thinker](https://thesystemsthinker.com/)
 - Thinking In Systems: A Primer (Donella H. Meadows) 📘 
-- Wardley mapping - https://www.swardleymaps.com/ (Simon Wardley)
+- [Wardley mapping](https://www.swardleymaps.com/) (Simon Wardley)
 <br>
 
 
@@ -34,7 +34,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 # System Design And Architecture
 > Techniques and patterns for system design
 
-- C4 Model - https://c4model.com/ (Simon Brown)
+- [C4 Model](https://c4model.com/) (Simon Brown)
 - Designing Data-Intensive Applications (Martin Kleppmann) 📘
 <br>
 
@@ -43,8 +43,8 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 
 - Accelerate (Nicole Forsgren) 📘
 - The DevOps Handbook (Gene Kim) 📘
-- Minimum Viable CD - https://minimumcd.org/ (Bryan Finster) 
-- CI/CD Dependency Tree - https://practices.minimumcd.org/ (Bryan Finster)
+- [Minimum Viable CD](https://minimumcd.org/) (Bryan Finster) 
+- [CI/CD Dependency Tree](https://practices.minimumcd.org/) (Bryan Finster)
 <br>
 
 # Software Testing
@@ -62,16 +62,16 @@ I got into software development through software testing, so it will always hold
 # Agile Frameworks
 > Complete scaling frameworks with their own variations on & additions to Scrum. I do NOT recommend copy-pasting these to your org.
 
-- DAD  - https://www.pmi.org/disciplined-agile
-- SAFe - https://www.scaledagileframework.com/
-- LeSS - https://less.works/
+- [Disciplined Agile (DA)](https://www.pmi.org/disciplined-agile)
+- [Scaled Agile Framework (SAFe)](https://www.scaledagileframework.com/)
+- [Large Scale Scrum (LeSS)](https://less.works/)
 <br>
 
 # Organisational Models
 > Models which may or may not be used in the company they're named after. I do NOT recommend copy-pasting these to your org. 
 
 - [Spotify model](files/SpotifyScaling.pdf) (Henrik Kniberg & Anders Ivarsson)
-- Shape Up - https://basecamp.com/shapeup/webbook (BaseCamp)
+- [Shape Up](https://basecamp.com/shapeup/webbook) (BaseCamp)
 <br>
 
 # Cheat Sheets
