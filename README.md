@@ -58,7 +58,7 @@ I got into software development through software testing, so it will always hold
 <br>
 
 # Agile Frameworks
-> Complete scaling frameworks with their own variations on & additions to Scrum.
+> Complete scaling frameworks with their own variations on & additions to Scrum. I do NOT recommend copy-pasting these to your org.
 
 - DAD  - https://www.pmi.org/disciplined-agile
 - SAFe - https://www.scaledagileframework.com/
@@ -66,9 +66,9 @@ I got into software development through software testing, so it will always hold
 <br>
 
 # Organisational Models
-> Models which may or may not be used in the company they're named after.  
+> Models which may or may not be used in the company they're named after. I do NOT recommend copy-pasting these to your org. 
 
-- Spotify model
+- Spotify model (Henrik Kniberg & Anders Ivarsson)
 - Shape Up - https://basecamp.com/shapeup/webbook (BaseCamp)
 <br>
 
