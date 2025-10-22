@@ -27,8 +27,13 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 # Management Practices
 > Useful info on generally accepted good management practices.
 
+### General management
 - Don't be an idiot (not a resource, just general advice)
+- Multipliers (Liz Wiseman)
+
+### Engineering management
 - An Elegant Puzzle (Will Larson) 📘
+- ["Google Does It"](https://tomaytotomato.com/developer-tropes-2/) - a warning against copy-pasting solutions from big-name companies
 <br>
 
 # System Design And Architecture
@@ -45,6 +50,18 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - The DevOps Handbook (Gene Kim) 📘
 - [Minimum Viable CD](https://minimumcd.org/) (Bryan Finster) 
 - [CI/CD Dependency Tree](https://practices.minimumcd.org/) (Bryan Finster)
+<br>
+
+# Collaboration in teams
+> People in a team should collaborate, but fostering good collaboration is hard. These resources might help.
+
+<br>
+
+# Security
+> Because security is important
+
+- [OWasp Top Ten](https://owasp.org/www-project-top-ten/)
+
 <br>
 
 # Software Testing
