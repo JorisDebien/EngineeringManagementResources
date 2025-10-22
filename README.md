@@ -61,7 +61,9 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 > Because security is important
 
 - [OWasp Top Ten](https://owasp.org/www-project-top-ten/)
-
+- [OWasp Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/)
+- [SAFECode publications](https://safecode.org/category/resource-publications/)
+- [OWasp Software Assurance Maturity Model (SAMM)](https://owaspsamm.org/)
 <br>
 
 # Software Testing
