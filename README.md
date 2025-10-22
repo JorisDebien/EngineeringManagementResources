@@ -29,7 +29,8 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 
 ### General management
 - Don't be an idiot (not a resource, just general advice)
-- Multipliers (Liz Wiseman)
+- Multipliers (Liz Wiseman) 📘
+- The Five Dysfuntions of a Team (Patrick Lencioni) 📘
 
 ### Engineering management
 - An Elegant Puzzle (Will Larson) 📘
