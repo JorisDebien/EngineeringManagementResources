@@ -51,6 +51,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - The DevOps Handbook (Gene Kim) 📘
 - [Minimum Viable CD](https://minimumcd.org/) (Bryan Finster) 
 - [CI/CD Dependency Tree](https://practices.minimumcd.org/) (Bryan Finster)
+- [Extreme Programming: A Gentle Introduction](http://www.extremeprogramming.org/)
 <br>
 
 # Collaboration in teams
