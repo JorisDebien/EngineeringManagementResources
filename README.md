@@ -10,8 +10,8 @@ A repository with resources on the challenges you might encounter as an engineer
 - [Software Testing](#software-testing)
 - [Agile Frameworks](#agile-frameworks)
 - [Organisational Models](#organisational-models)
-- [Other Curated Collections](#curated-collections)
-  
+- [Other Curated Collections](#curated-collections)  
+
 <br>
 
 ---
@@ -35,6 +35,8 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - Don't be an idiot (not a resource, just general advice)
 - Multipliers (Liz Wiseman) 📘
 - The Five Dysfuntions of a Team (Patrick Lencioni) 📘
+- The Making of a Manager (Julie Zhuo) 📘
+- How to Lead When You're Not in Charge (Clay Scroggins) 📘
 
 ### Engineering management
 - An Elegant Puzzle (Will Larson) 📘
@@ -50,6 +52,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 
 - [C4 Model](https://c4model.com/) (Simon Brown)
 - Designing Data-Intensive Applications (Martin Kleppmann) 📘
+- [System Design case studies](https://github.com/systemdesign42/system-design) (Curated collection)
 <br>
 
 ---
