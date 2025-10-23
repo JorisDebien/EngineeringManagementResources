@@ -57,7 +57,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 
 ---
 
-# Engineering Practices
+# Engineering
 > The neverending quest to find out what good engineering means.
 
 - Accelerate (Nicole Forsgren) 📘
@@ -103,6 +103,11 @@ I got into software development through software testing, so it will always hold
 <br>
 
 ---
+
+# Training
+> How to train engineers, and what to train them in.
+
+- [Developer Roadmaps](https://roadmap.sh/) (Kamran Ahmed)
 
 # Agile Frameworks
 > Complete scaling frameworks with their own variations on & additions to Scrum. I do NOT recommend copy-pasting these to your org.
