@@ -15,7 +15,6 @@ A repository with resources on the challenges you might encounter as an engineer
 <br>
 
 ---
-
 # Thinking And Modelling Techniques
 > Techniques used to structure problem solving and find potential pitfalls
 
@@ -27,7 +26,6 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 <br>
 
 ---
-
 # Management Practices
 > Useful info on generally accepted good management practices.
 
@@ -46,7 +44,6 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 <br>
 
 ---
-
 # System Design And Architecture
 > Techniques and patterns for system design
 
@@ -56,7 +53,6 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 <br>
 
 ---
-
 # Engineering
 > The neverending quest to find out what good engineering means.
 
@@ -68,7 +64,6 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 <br>
 
 ---
-
 # Collaboration in teams
 > People in a team should collaborate, but fostering good collaboration is hard. These resources might help.
 
@@ -78,7 +73,6 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 <br>
 
 ---
-
 # Security
 > Because security is important
 
@@ -89,7 +83,6 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 <br>
 
 ---
-
 # Software Testing
 > Understand the job of a tester and their challenges
 
@@ -103,12 +96,13 @@ I got into software development through software testing, so it will always hold
 <br>
 
 ---
-
 # Training
 > How to train engineers, and what to train them in.
 
 - [Developer Roadmaps](https://roadmap.sh/) (Kamran Ahmed)
+<br>
 
+---
 # Agile Frameworks
 > Complete scaling frameworks with their own variations on & additions to Scrum. I do NOT recommend copy-pasting these to your org.
 
@@ -118,7 +112,6 @@ I got into software development through software testing, so it will always hold
 <br>
 
 ---
-
 # Organisational Models
 > Models which may or may not be used in the company they're named after. I do NOT recommend copy-pasting these to your org. 
 
@@ -127,7 +120,6 @@ I got into software development through software testing, so it will always hold
 <br>
 
 ---
-
 # Cheat Sheets
 > Spreading cheat sheets and guidelines can help raise awareness on practices, principles, models, etc - making it easier to align on certain topics within an organisation.  
 
@@ -138,7 +130,6 @@ I got into software development through software testing, so it will always hold
 **TestObsessed - Data Type Attacks & Web Tests** - [Test Heuristic Cheat Sheet](https://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
 
 ---
-
 # Other Curated Collections
 > More curated collections
 
