@@ -57,6 +57,9 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 # Collaboration in teams
 > People in a team should collaborate, but fostering good collaboration is hard. These resources might help.
 
+- [Mob Programming - A Whole Team Approach](https://agilealliance.org/resources/experience-reports/mob-programming-agile2014/) (Woody Zuill)
+- Software Teaming: A Mob Programming, Whole-Team Approach (Woody Zuill & Kevin Meadows) 📘
+- [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) (Martin Fowler)
 <br>
 
 # Security
