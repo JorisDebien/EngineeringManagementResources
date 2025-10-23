@@ -34,6 +34,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - Multipliers (Liz Wiseman) 📘
 - The Five Dysfuntions of a Team (Patrick Lencioni) 📘
 - The Making of a Manager (Julie Zhuo) 📘
+- Radical Candor (Kim Scott) 📘
 - How to Lead When You're Not in Charge (Clay Scroggins) 📘
 
 ### Engineering management
