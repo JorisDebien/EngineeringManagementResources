@@ -11,7 +11,10 @@ A repository with resources on the challenges you might encounter as an engineer
 - [Agile Frameworks](#agile-frameworks)
 - [Organisational Models](#organisational-models)
 - [Other Curated Collections](#curated-collections)
+  
 <br>
+
+---
 
 # Thinking And Modelling Techniques
 > Techniques used to structure problem solving and find potential pitfalls
@@ -23,6 +26,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - [Wardley mapping](https://www.swardleymaps.com/) (Simon Wardley)
 <br>
 
+---
 
 # Management Practices
 > Useful info on generally accepted good management practices.
@@ -39,12 +43,16 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - [Team Topologies](https://teamtopologies.com/) (Matthew Skelton & Manuel Pais)
 <br>
 
+---
+
 # System Design And Architecture
 > Techniques and patterns for system design
 
 - [C4 Model](https://c4model.com/) (Simon Brown)
 - Designing Data-Intensive Applications (Martin Kleppmann) 📘
 <br>
+
+---
 
 # Engineering Practices
 > The neverending quest to find out what good engineering means.
@@ -56,6 +64,8 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - [Extreme Programming: A Gentle Introduction](http://www.extremeprogramming.org/)
 <br>
 
+---
+
 # Collaboration in teams
 > People in a team should collaborate, but fostering good collaboration is hard. These resources might help.
 
@@ -63,6 +73,8 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - Software Teaming: A Mob Programming, Whole-Team Approach (Woody Zuill & Kevin Meadows) 📘
 - [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) (Martin Fowler)
 <br>
+
+---
 
 # Security
 > Because security is important
@@ -72,6 +84,8 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - [SAFECode publications](https://safecode.org/category/resource-publications/)
 - [OWasp Software Assurance Maturity Model (SAMM)](https://owaspsamm.org/)
 <br>
+
+---
 
 # Software Testing
 > Understand the job of a tester and their challenges
@@ -85,6 +99,8 @@ I got into software development through software testing, so it will always hold
 - [How They Test](https://github.com/abhivaikar/howtheytest/) (Curated collection by Abhijeet Vaikar)
 <br>
 
+---
+
 # Agile Frameworks
 > Complete scaling frameworks with their own variations on & additions to Scrum. I do NOT recommend copy-pasting these to your org.
 
@@ -93,12 +109,16 @@ I got into software development through software testing, so it will always hold
 - [Large Scale Scrum (LeSS)](https://less.works/)
 <br>
 
+---
+
 # Organisational Models
 > Models which may or may not be used in the company they're named after. I do NOT recommend copy-pasting these to your org. 
 
 - [Spotify model](files/SpotifyScaling.pdf) (Henrik Kniberg & Anders Ivarsson)
 - [Shape Up](https://basecamp.com/shapeup/webbook) (BaseCamp)
 <br>
+
+---
 
 # Cheat Sheets
 > Spreading cheat sheets and guidelines can help raise awareness on practices, principles, models, etc - making it easier to align on certain topics within an organisation.  
@@ -108,6 +128,8 @@ I got into software development through software testing, so it will always hold
 
 ## Testing
 **TestObsessed - Data Type Attacks & Web Tests** - [Test Heuristic Cheat Sheet](https://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
+
+---
 
 # Other Curated Collections
 > More curated collections
