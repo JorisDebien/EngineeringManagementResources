@@ -56,6 +56,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 # Engineering
 > The neverending quest to find out what good engineering means.
 
+- The Pragmatic Programmer (David Thomas) 📘
 - Accelerate (Nicole Forsgren) 📘
 - The DevOps Handbook (Gene Kim) 📘
 - [Minimum Viable CD](https://minimumcd.org/) (Bryan Finster) 
