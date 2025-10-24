@@ -8,6 +8,7 @@ A repository with resources on the challenges you might encounter as an engineer
 - [System Design And Architecture](#system-design-and-architecture)
 - [Engineering](#engineering)
 - [Collaboration In Teams](#collaboration-in-teams)
+- [GenAI](#genai)
 - [Security](#security)
 - [Software Testing](#software-testing)
 - [Agile Frameworks](#agile-frameworks)
@@ -79,6 +80,15 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - Software Teaming: A Mob Programming, Whole-Team Approach (Woody Zuill & Kevin Meadows) 📘
 - [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) (Martin Fowler)
 <br>
+
+---
+# GenAI
+> Guides and info on how to use GenAI effectively in engineering
+
+- [Augmented Coding Patterns](https://lexler.github.io/augmented-coding-patterns/talk/) (Lada Kesseler)
+- 
+<br>
+
 
 ---
 # Security
