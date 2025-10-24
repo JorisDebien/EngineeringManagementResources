@@ -51,6 +51,10 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - [C4 Model](https://c4model.com/) (Simon Brown)
 - Designing Data-Intensive Applications (Martin Kleppmann) 📘
 - [System Design case studies](https://github.com/systemdesign42/system-design) (Curated collection)
+
+### Modelling languages
+- [Drakon](https://drakonflow.com/read/drakon)
+- [Unified Modelling Language](https://www.omg.org/)
 <br>
 
 ---
