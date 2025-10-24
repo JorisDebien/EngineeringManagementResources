@@ -86,6 +86,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - [OWasp Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/)
 - [SAFECode publications](https://safecode.org/category/resource-publications/)
 - [OWasp Software Assurance Maturity Model (SAMM)](https://owaspsamm.org/)
+- [PagerDuty Security Training For Engineers](https://sudo.pagerduty.com/for_engineers/) - Training material made public by PagerDuty
 <br>
 
 ---
