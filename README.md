@@ -54,7 +54,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 
 ### Modelling languages
 - [Drakon](https://drakonflow.com/read/drakon)
-- [Unified Modelling Language](https://www.omg.org/)
+- [Unified Modelling Language](https://www.omg.org/uml/)
 <br>
 
 ---
