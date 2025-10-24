@@ -6,11 +6,13 @@ A repository with resources on the challenges you might encounter as an engineer
 - [Thinking And Modelling Techniques](#thinking-and-modelling-techniques)
 - [Management Practices](#management-practices)
 - [System Design And Architecture](#system-design-and-architecture)
-- [Engineering Practices](#engineering-practices)
+- [Engineering](#engineering)
+- [Collaboration In Teams](#collaboration-in-teams)
+- [Security](#security)
 - [Software Testing](#software-testing)
 - [Agile Frameworks](#agile-frameworks)
 - [Organisational Models](#organisational-models)
-- [Other Curated Collections](#curated-collections)  
+- [Other Curated Collections](#other-curated-collections)  
 
 <br>
 
@@ -70,7 +72,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 <br>
 
 ---
-# Collaboration in teams
+# Collaboration In Teams
 > People in a team should collaborate, but fostering good collaboration is hard. These resources might help.
 
 - [Mob Programming - A Whole Team Approach](https://agilealliance.org/resources/experience-reports/mob-programming-agile2014/) (Woody Zuill)
