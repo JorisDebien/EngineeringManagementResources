@@ -5,6 +5,7 @@ A repository with resources on the challenges you might encounter as an engineer
 # Table of contents
 - [Thinking And Modelling Techniques](#thinking-and-modelling-techniques)
 - [Management Practices](#management-practices)
+- [Metrics](#metrics)
 - [System Design And Architecture](#system-design-and-architecture)
 - [Engineering](#engineering)
 - [Collaboration In Teams](#collaboration-in-teams)
@@ -45,6 +46,13 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - The Manager's Path (Camille Fournier) 📘 - Especially useful for devs wanting to go in leadership roles
 - ["Google Does It"](https://tomaytotomato.com/developer-tropes-2/) - a warning against copy-pasting solutions from big-name companies
 - [Team Topologies](https://teamtopologies.com/) (Matthew Skelton & Manuel Pais)
+<br>
+
+---
+# Metrics
+> Choosing the right thing to measure, and measuring it right, can be one of the most impactful things you're doing
+
+- [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
 <br>
 
 ---
