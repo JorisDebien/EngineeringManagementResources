@@ -46,6 +46,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - The Manager's Path (Camille Fournier) 📘 - Especially useful for devs wanting to go in leadership roles
 - ["Google Does It"](https://tomaytotomato.com/developer-tropes-2/) - a warning against copy-pasting solutions from big-name companies
 - [Team Topologies](https://teamtopologies.com/) (Matthew Skelton & Manuel Pais)
+- [The Rands Test](https://randsinrepose.com/archives/the-rands-test/) (Michael Lopp a.k.a Rands)
 <br>
 
 ---
@@ -71,13 +72,19 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 ---
 # Engineering
 > The neverending quest to find out what good engineering means.
+To avoid long lists I've split this section up in organizational practices (i.e. things that should be understood & set up organisation-wide) and individual practices (i.e. things that any individual engineer should understand & implement). The distinction is vague in the end, since organization creates behaviour and behaviour feeds back into organization.
 
-- The Pragmatic Programmer (David Thomas) 📘
+### Organizational practices
 - Accelerate (Nicole Forsgren) 📘
 - The DevOps Handbook (Gene Kim) 📘
 - [Minimum Viable CD](https://minimumcd.org/) (Bryan Finster) 
 - [CI/CD Dependency Tree](https://practices.minimumcd.org/) (Bryan Finster)
 - [Extreme Programming: A Gentle Introduction](http://www.extremeprogramming.org/)
+- [The Joel Test - 12 steps to better code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) (Joel Spolsky)
+
+### Individual practices
+- The Pragmatic Programmer (David Thomas) 📘
+- [Professional Programming](https://github.com/charlax/professional-programming) (Curated collection by [Charles-Axel Dein](https://github.com/charlax))
 <br>
 
 ---
@@ -114,7 +121,6 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 > Understand the job of a tester and their challenges
 
 I got into software development through software testing, so it will always hold a special place in my heart. More importantly, though, is that I find testability one of the major factors in long-term success of any software application - so understanding the challenges and struggles your testers are facing is key to proper management of your applications.
-
 
 - Agile Testing (Lisa Crispin) 📘
 - Lessons Learned in Software Testing (Cem Kaner & James M Bach) 📘
