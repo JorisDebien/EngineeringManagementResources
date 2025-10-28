@@ -72,6 +72,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 ---
 # Engineering
 > The neverending quest to find out what good engineering means.
+
 To avoid long lists I've split this section up in organizational practices (i.e. things that should be understood & set up organisation-wide) and individual practices (i.e. things that any individual engineer should understand & implement). The distinction is vague in the end, since organization creates behaviour and behaviour feeds back into organization.
 
 ### Organizational practices
@@ -85,6 +86,9 @@ To avoid long lists I've split this section up in organizational practices (i.e.
 ### Individual practices
 - The Pragmatic Programmer (David Thomas) 📘
 - [Professional Programming](https://github.com/charlax/professional-programming) (Curated collection by [Charles-Axel Dein](https://github.com/charlax))
+
+### Platform engineering
+- [Platform Engineering Toolkit](https://www.platformengineeringtoolkit.com/) (Gielen-Rojas Lopez, Tom Slenders, Dr. Andrea Klettke)
 <br>
 
 ---
