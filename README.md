@@ -44,7 +44,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 ### Engineering management
 - An Elegant Puzzle (Will Larson) 📘
 - The Manager's Path (Camille Fournier) 📘 - Especially useful for devs wanting to go in leadership roles
-- ["Google Does It"](https://tomaytotomato.com/developer-tropes-2/) - a warning against copy-pasting solutions from big-name companies
+- ["Google Does It"](https://tomaytotomato.com/developer-tropes-2/) (Bruce Taylor) - a warning against copy-pasting solutions from big-name companies
 - [Team Topologies](https://teamtopologies.com/) (Matthew Skelton & Manuel Pais)
 - [The Rands Test](https://randsinrepose.com/archives/the-rands-test/) (Michael Lopp a.k.a Rands)
 <br>
