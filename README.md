@@ -35,7 +35,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 > Useful info on generally accepted good management practices.
 
 ### General management
-- Don't be an idiot (not a resource, just general advice)
+- Don't be a muppet (not a resource, just general advice)
 - Multipliers (Liz Wiseman) 📘
 - The Five Dysfuntions of a Team (Patrick Lencioni) 📘
 - The Making of a Manager (Julie Zhuo) 📘
