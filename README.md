@@ -27,6 +27,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - [The Systems Thinker](https://thesystemsthinker.com/)
 - Thinking In Systems: A Primer (Donella H. Meadows) 📘 
 - [Wardley mapping](https://www.swardleymaps.com/) (Simon Wardley)
+- [Value Stream Mapping](https://www.lean.org/lexicon-terms/value-stream-mapping/)
 <br>
 
 ---
