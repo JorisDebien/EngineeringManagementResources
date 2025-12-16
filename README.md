@@ -165,14 +165,11 @@ I got into software development through software testing, so it will always hold
 <br>
 
 ---
-# Cheat Sheets
+# Cheat Sheets & Practices [Needs some love & care)
 > Spreading cheat sheets and guidelines can help raise awareness on practices, principles, models, etc - making it easier to align on certain topics within an organisation.  
 
 ## Coding
-**Principles of writing consistent, idiomatic JS** - https://github.com/rwaldron/idiomatic.js/
-
-## Testing
-**TestObsessed - Data Type Attacks & Web Tests** - [Test Heuristic Cheat Sheet](https://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
+- Principles of writing consistent, idiomatic JS - https://github.com/rwaldron/idiomatic.js/
 
 ---
 # Other Curated Collections
