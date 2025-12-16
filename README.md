@@ -55,6 +55,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 > Choosing the right thing to measure, and measuring it right, can be one of the most impactful things you're doing
 
 - [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
+- Frictionless (Nicole Forsgren & Abi Noda) 📘
 - Measure What Matters (John Doerr) 📘
 <br>
 
@@ -80,6 +81,7 @@ To avoid long lists I've split this section up in organizational practices (i.e.
 ### Organizational practices
 - Accelerate (Nicole Forsgren) 📘
 - The DevOps Handbook (Gene Kim) 📘
+- Frictionless (Nicole Forsgren & Abi Noda) 📘
 - [Minimum Viable CD](https://minimumcd.org/) (Bryan Finster) 
 - [CI/CD Dependency Tree](https://practices.minimumcd.org/) (Bryan Finster)
 - [Extreme Programming: A Gentle Introduction](http://www.extremeprogramming.org/)
