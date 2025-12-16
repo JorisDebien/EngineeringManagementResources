@@ -48,6 +48,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - ["Google Does It"](https://tomaytotomato.com/developer-tropes-2/) (Bruce Taylor) - a warning against copy-pasting solutions from big-name companies
 - [Team Topologies](https://teamtopologies.com/) (Matthew Skelton & Manuel Pais)
 - [The Rands Test](https://randsinrepose.com/archives/the-rands-test/) (Michael Lopp a.k.a Rands)
+- Crafting Engineering Strategy (Will Larson) 📘
 <br>
 
 ---
@@ -86,13 +87,15 @@ To avoid long lists I've split this section up in organizational practices (i.e.
 - [CI/CD Dependency Tree](https://practices.minimumcd.org/) (Bryan Finster)
 - [Extreme Programming: A Gentle Introduction](http://www.extremeprogramming.org/)
 - [The Joel Test - 12 steps to better code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) (Joel Spolsky)
+- [Platform Engineering Toolkit](https://www.platformengineeringtoolkit.com/) (Gielen-Rojas Lopez, Tom Slenders, Dr. Andrea Klettke)
 
 ### Individual practices
 - The Pragmatic Programmer (David Thomas) 📘
 - [Professional Programming](https://github.com/charlax/professional-programming) (Curated collection by [Charles-Axel Dein](https://github.com/charlax))
+- Think Like A Programmer (V. Anton Spraul) 📘
 
 ### Platform engineering
-- [Platform Engineering Toolkit](https://www.platformengineeringtoolkit.com/) (Gielen-Rojas Lopez, Tom Slenders, Dr. Andrea Klettke)
+
 <br>
 
 ---
