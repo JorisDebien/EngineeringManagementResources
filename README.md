@@ -1,5 +1,7 @@
 # Engineering Management Resources
-A repository with resources on the challenges you might encounter as an engineering manager. I try to highlight multiple sides of the same topic since, as a manager, you'll more likely than not answer questions by saying "It depends". Inspired by curated collections like How They Test.
+A repository with resources on the challenges you might encounter as an engineering manager. I try to highlight multiple sides of the same topic since, as a manager, you'll more likely than not answer questions by saying "It depends". Inspired by curated collections like How They Test. 
+
+Concepts I have yet to find good resources on [can be found here](TODO.md).
 <br>
 
 # Table of contents
