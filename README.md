@@ -96,8 +96,6 @@ To avoid long lists I've split this section up in organizational practices (i.e.
 - [Professional Programming](https://github.com/charlax/professional-programming) (Curated collection by [Charles-Axel Dein](https://github.com/charlax))
 - Think Like A Programmer (V. Anton Spraul) 📘
 
-### Platform engineering
-
 <br>
 
 ---
