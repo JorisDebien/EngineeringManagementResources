@@ -106,6 +106,9 @@ To avoid long lists I've split this section up in organizational practices (i.e.
 - Software Teaming: A Mob Programming, Whole-Team Approach (Woody Zuill & Kevin Meadows) 📘
 - [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) (Martin Fowler)
 - [Atlassian Team Playbooks](https://www.atlassian.com/team-playbook/plays)
+- [Awesome Code Reviews](https://github.com/joho/awesome-code-review) (Curated collection by John Barton)
+- [Gource - visualizing source control repositories](https://github.com/acaudwell/Gource) 🛠️
+
 <br>
 
 ---
