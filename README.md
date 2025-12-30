@@ -180,7 +180,6 @@ I got into software development through software testing, so it will always hold
 > More curated collections
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
-- [How They Test](https://abhivaikar.github.io/howtheytest/)
 
 
  
