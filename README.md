@@ -154,6 +154,7 @@ I got into software development through software testing, so it will always hold
 # Agile Frameworks
 > Complete scaling frameworks with their own variations on & additions to Scrum. I do NOT recommend copy-pasting these to your org.
 
+- [Scrum](https://www.scrum.org/)
 - [Disciplined Agile (DA)](https://www.pmi.org/disciplined-agile)
 - [Scaled Agile Framework (SAFe)](https://www.scaledagileframework.com/)
 - [Large Scale Scrum (LeSS)](https://less.works/)
@@ -179,6 +180,7 @@ I got into software development through software testing, so it will always hold
 > More curated collections
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+- [How They Test](https://abhivaikar.github.io/howtheytest/)
 
 
  
