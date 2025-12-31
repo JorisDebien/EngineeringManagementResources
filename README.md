@@ -51,6 +51,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - [Team Topologies](https://teamtopologies.com/) (Matthew Skelton & Manuel Pais)
 - [The Rands Test](https://randsinrepose.com/archives/the-rands-test/) (Michael Lopp a.k.a Rands)
 - Crafting Engineering Strategy (Will Larson) 📘
+- [The Engineering Leader (Cate Huston)](https://www.oreilly.com/library/view/the-engineering-leader/9781098154059/) 📘
 <br>
 
 ---
