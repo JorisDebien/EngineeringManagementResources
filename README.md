@@ -141,6 +141,7 @@ I got into software development through software testing, so it will always hold
 - Agile Testing (Lisa Crispin) 📘
 - Lessons Learned in Software Testing (Cem Kaner & James M Bach) 📘
 - Perfect Software... And Other Illusions About Software Testing (Gerald Weinberg) 📘
+- [Explore It! (Elisabeth Hendrickson)](https://pragprog.com/titles/ehxta/explore-it/) 📘
 - [How They Test](https://github.com/abhivaikar/howtheytest/) (Curated collection by Abhijeet Vaikar)
 <br>
 
