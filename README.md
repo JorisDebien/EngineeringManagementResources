@@ -43,6 +43,7 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - The Making of a Manager (Julie Zhuo) 📘
 - Radical Candor (Kim Scott) 📘
 - How to Lead When You're Not in Charge (Clay Scroggins) 📘
+- Drive (Daniel Pink) 📘
 
 ### Engineering management
 - An Elegant Puzzle (Will Larson) 📘
@@ -52,6 +53,8 @@ To me, thinking and modelling techniques are essential skills for any engineerin
 - [The Rands Test](https://randsinrepose.com/archives/the-rands-test/) (Michael Lopp a.k.a Rands)
 - Crafting Engineering Strategy (Will Larson) 📘
 - [The Engineering Leader (Cate Huston)](https://www.oreilly.com/library/view/the-engineering-leader/9781098154059/) 📘
+- The Mythical Man-Month (Frederick Brooks)
+- Implementing Lean Software Development (Mary & Tom Poppendieck) 📘
 <br>
 
 ---
@@ -143,6 +146,7 @@ I got into software development through software testing, so it will always hold
 - Perfect Software... And Other Illusions About Software Testing (Gerald Weinberg) 📘
 - [Explore It! (Elisabeth Hendrickson)](https://pragprog.com/titles/ehxta/explore-it/) 📘
 - [How They Test](https://github.com/abhivaikar/howtheytest/) (Curated collection by Abhijeet Vaikar)
+- Specification by Example (Gojko Adzic) 📘
 <br>
 
 ---
