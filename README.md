@@ -175,11 +175,12 @@ I got into software development through software testing, so it will always hold
 <br>
 
 ---
-# Cheat Sheets & Practices [Needs some love & care)
+# Cheat Sheets [Needs some love & care]
 > Spreading cheat sheets and guidelines can help raise awareness on practices, principles, models, etc - making it easier to align on certain topics within an organisation.  
 
-## Coding
-- Principles of writing consistent, idiomatic JS - https://github.com/rwaldron/idiomatic.js/
+### Frontend
+- [Principles of writing consistent, idiomatic JS](https://github.com/rwaldron/idiomatic.js/) (Rick Waldron)
+- [HTML Cheat sheet](files/htmlcheatsheet.pdf) (I don't remember where I got this from) 
 
 ---
 # Other Curated Collections
