@@ -20,3 +20,10 @@ Concepts & knowledge that I've gathered over the years but have not found a good
 # Heuristics and theories
 - Theory of Constraints
 - Queueing theory
+
+# Cheat sheets
+- Python
+- Python libs: FastAPI, Pandas
+- Docker & Docker Compose
+- CSS
+- Angular
