@@ -94,6 +94,7 @@ To avoid long lists I've split this section up in organizational practices (i.e.
 - [Extreme Programming: A Gentle Introduction](http://www.extremeprogramming.org/)
 - [The Joel Test - 12 steps to better code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) (Joel Spolsky)
 - [Platform Engineering Toolkit](https://www.platformengineeringtoolkit.com/) (Gielen-Rojas Lopez, Tom Slenders, Dr. Andrea Klettke)
+- [Architecture For Flow](https://architectureforflow.com/) (Susanne Kaiser) 📘
 
 ### Individual practices
 - The Pragmatic Programmer (David Thomas) 📘
